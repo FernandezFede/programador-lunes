@@ -1,3 +1,5 @@
 carne 
 verduras 
 agua
+limpieza
+comida
